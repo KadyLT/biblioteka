@@ -1,0 +1,13 @@
+{
+    "name": "zsaki/biblioteka",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Zivile Sakiene",
+            "email": "z.sakiene@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.1"
+    }
+}
